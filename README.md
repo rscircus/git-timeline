@@ -1,5 +1,6 @@
-# git-story
-Tell the story of your Git project by creating video animations (.mp4)
+# git-timeline
+
+Tell the story of your Git project by creating a timline animations (.mp4)
 of your commit history directly from your Git repo.
 
 ## Use cases
